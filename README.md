@@ -5,4 +5,6 @@ A “choose your own adventure” game similar to the App Store hit “Life Line
 
 ![](Documentation/demo1.png =350x257)![](Documentation/demo2.png =350x257)![](Documentation/demo3.png =350x257)
 
+<img src="Documentation/demo1.png" alt="demo1" width="350" height="350x257">
+
 ![End Banner](Documentation/readme-end-banner.png)
