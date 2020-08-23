@@ -3,8 +3,10 @@
 
 A “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a short story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
 
-![](Documentation/demo1.png =350x257)![](Documentation/demo2.png =350x257)![](Documentation/demo3.png =350x257)
 
-<img src="Documentation/demo1.png" alt="demo1" width="350" height="350x257">
+<img src="Documentation/demo1.png" alt="demo1" width="350" height="350x757">
+<img src="Documentation/demo2.png" alt="demo2" width="350" height="350x757">
+<img src="Documentation/demo3.png" alt="demo3" width="350" height="350x757">
 
+<br/>
 ![End Banner](Documentation/readme-end-banner.png)
